@@ -3,6 +3,26 @@
     margin: 0 auto;
 }
 
+.gon {
+    width: 200px;
+    border: 10px solid #AAAAAA;
+    transition: transform .5s;
+    box-shadow: 5px 5px 10px #6f7364;
+    display: block;
+    margin: auto;
+}
+
+.padfoot section{
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+}
+
+.thor {
+    text-align: center;
+    margin: 0 auto;
+    padding: 10%;
+}
+
 nav a{
     text-align: center;
     color: #396e94;
