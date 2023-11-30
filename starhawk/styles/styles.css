@@ -80,7 +80,7 @@ body{
     place-items: center;
 }
 
-.whyus, .hire{
+.whyus, .hire, .s1{
     padding: 35px;
 }
 
@@ -96,4 +96,17 @@ body{
 
 .title{
     text-align: center;
+}
+
+.img0{
+    width: 300px;
+    margin: 15px;
+    float: left;
+}
+
+.img1{
+    width: 300px;
+    margin: 15px;
+    margin-right: 50px;
+    float: right;
 }
